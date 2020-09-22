@@ -1,6 +1,6 @@
 <div align="center">
   <h3>
-    🔭 Hi, I am Matt. I am currently working on a block chain application
+    🔭 Hi, I am Matt. I am currently working on a blockchain application
   </h3>
   <img height="300" width="600" src="assets/contra.gif" alt="retro contra gif" />
 </div>
