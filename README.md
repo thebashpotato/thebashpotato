@@ -1,4 +1,3 @@
-```html
 <div align="center">
   <img height="150" src="assets/contra.gif" alt="retro contra gif" />
 </div>
@@ -26,7 +25,6 @@
     <img src="https://img.shields.io/badge/programmer-I%20write%20code%20and%20stuff-lightgrey"/>
   </a>
 </p>
-```
 
 <!--
 - 🔭 I’m currently working on ...
