@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
+  <b><a href="https://github.com/neovim/neovim">(Neo)Vimmer</a></b>
   •
   <b><a href="https://www.mattwilliams.site/">My Portfolio</a></b>
   •
@@ -17,13 +17,10 @@
   <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
-  <img src=""/>
 </p>
 
 <p align="center">
-  <a href="https://longtailfinancial.com" >
-    <img src="https://img.shields.io/badge/programmer-I%20write%20code%20and%20stuff-lightgrey"/>
-  </a>
+  <img src="https://img.shields.io/badge/programmer-I%20write%20code%20and%20stuff-lightgrey"/>
 </p>
 
 <!--
