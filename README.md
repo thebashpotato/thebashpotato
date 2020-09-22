@@ -7,7 +7,7 @@
   •
   <b><a href="https://www.mattwilliams.site/">My Portfolio</a></b>
   •
-  <b><a href="https://twitter.com/MattWil30205683"> Follow Me on Twitter</a></b>
+  <b><a href="https://twitter.com/TheBashPotato"> Follow Me on Twitter</a></b>
   •
   <b><a href="mailto:mattltf@pm.me"> Email Me</a></b>
 </p>
