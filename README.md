@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="assets/contra.gif" alt="retro contra gif" />
+  <img height="300" width="300" src="assets/contra.gif" alt="retro contra gif" />
 </div>
 
 <p align="center">
