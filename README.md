@@ -1,15 +1,17 @@
+# 🔭 Hi, I am Matt. I am currently working on a block chain application
+
 <div align="center">
   <img height="300" width="600" src="assets/contra.gif" alt="retro contra gif" />
 </div>
 
 <p align="center">
-  <b><a href="https://github.com/neovim/neovim">(Neo)Vimmer</a></b>
+  <b><a href="https://github.com/neovim/neovim">😄 (Neo)Vimmer</a></b>
   •
-  <b><a href="https://www.mattwilliams.site/">My Portfolio</a></b>
+  <b><a href="https://www.mattwilliams.site/">⚡ My Good ol' fashion website</a></b>
   •
-  <b><a href="https://twitter.com/TheBashPotato"> Follow Me on Twitter</a></b>
+  <b><a href="https://twitter.com/TheBashPotato">💬 Follow Me on Twitter</a></b>
   •
-  <b><a href="mailto:mattltf@pm.me"> Email Me</a></b>
+  <b><a href="mailto:mattltf@pm.me">📫 Email Me</a></b>
 </p>
 
 <p align="center">
