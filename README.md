@@ -1,6 +1,6 @@
 <div align="center">
   <h3>
-    🔭 Hi, I am Matt. I am currently working on a blockchain application
+    <img src="https://img.shields.io/badge/Hi%2C%20I'm%20Matt-A%20Certified%20Young%20Person-informational"/>
   </h3>
   <img height="300" width="600" src="assets/contra.gif" alt="retro contra gif" />
 </div>
