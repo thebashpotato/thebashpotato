@@ -1,6 +1,7 @@
-### 🔭 Hi, I am Matt. I am currently working on a block chain application
-
 <div align="center">
+  <h3>
+    🔭 Hi, I am Matt. I am currently working on a block chain application
+  </h3>
   <img height="300" width="600" src="assets/contra.gif" alt="retro contra gif" />
 </div>
 
