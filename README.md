@@ -13,6 +13,8 @@
   <b><a href="https://twitter.com/TheBashPotato">💬 Follow Me on Twitter</a></b>
   •
   <b><a href="mailto:mattltf@pm.me">📫 Email Me</a></b>
+  •
+  <b><a href="https://calendly.com/matt_williams"> Book a Meeting</a></b>
 </p>
 
 <p align="center">
