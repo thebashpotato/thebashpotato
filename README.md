@@ -17,12 +17,6 @@
   <b><a href="https://calendly.com/matt_williams"> Book a Meeting</a></b>
 </p>
 
-### My Statistics:
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattcoding4days&show_icons=true&theme=tokyonight)
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattcoding4days&hide=jupyter%20notebook,html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
   <img src="https://img.shields.io/badge/python-306998.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
@@ -33,6 +27,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/programmer-I%20write%20code%20and%20stuff-lightgrey"/>
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattcoding4days&show_icons=true&theme=tokyonight)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattcoding4days&hide=jupyter%20notebook,html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on ...
