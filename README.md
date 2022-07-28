@@ -28,6 +28,9 @@
   <img src="https://img.shields.io/badge/programmer-I%20write%20code%20and%20stuff-lightgrey"/>
 </p>
 
+### Now Playing 🎧
+
+[![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)](https://open.spotify.com/user/u4sml5mpygv2c0yhrc64iin88)
 
 <!--
 - 🔭 I’m currently working on ...
