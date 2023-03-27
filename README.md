@@ -1,7 +1,4 @@
 <div align="center">
-  <h1>I do not use Github actively anymore</h1>
-   <b><a href="https://gitlab.com/thebashpotato">I am now on Gitlab</a></b>
-  
   <h3>
     <img src="https://img.shields.io/badge/Hi%2C%20I'm%20Matt-A%20Certified%20Young%20Person-informational"/>
   </h3>
