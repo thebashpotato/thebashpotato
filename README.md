@@ -8,11 +8,9 @@
 <p align="center">
   <b><a href="https://github.com/neovim/neovim">😄 (Neo)Vimmer</a></b>
   •
-  <b><a href="https://www.mattwilliams.site/">⚡ My Good Ol' Fashion Website</a></b>
-  •
   <b><a href="https://twitter.com/TheBashPotato">💬 Follow Me on Twitter</a></b>
   •
-  <b><a href="mailto:mattltf@pm.me">📫 Email Me</a></b>
+  <b><a href="mailto:matt.k.williams@protonmail.com">📫 Email Me</a></b>
   •
   <b><a href="https://calendly.com/matt_williams"> Book a Meeting</a></b>
 </p>
@@ -24,11 +22,14 @@
   <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/programmer-I%20write%20code%20and%20stuff-lightgrey"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thebashpotato&show_icons=true&theme=gruvbox" />  
+</div>
+
+
 
 <!--
+![The Bashpotato's github stats](https://github-readme-stats.vercel.app/api?username=thebashpotato&show_icons=true&theme=merko)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
