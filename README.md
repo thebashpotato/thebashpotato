@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thebashpotato&show_icons=true&theme=gruvbox" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=thebashpotato&show_icons=true&theme=github_dark" />  
 </div>
 
 
