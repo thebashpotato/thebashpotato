@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="300" width="600" src="assets/gts.gif" alt="retro contra gif" />
+</div>
+
 <p align="center">
   <b><a href="https://github.com/thebashpotato/neovim.config">😄 (Neo)Vimmer</a></b>
   •
